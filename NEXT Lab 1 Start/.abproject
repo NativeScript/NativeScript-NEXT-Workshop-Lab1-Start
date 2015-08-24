@@ -2,8 +2,8 @@
   "ProjectName": "NEXT Lab 1 Start",
   "ProjectGuid": "179d32ef-88d5-42aa-9bf2-e6bfdadcb265",
   "projectVersion": 1,
-  "AppIdentifier": "com.telerik.NEXTLab1Finish",
-  "DisplayName": "NEXT Lab 1 Finish",
+  "AppIdentifier": "com.telerik.NEXTLab1Start",
+  "DisplayName": "NEXT Lab 1 Start",
   "Author": "",
   "Description": "NEXT Lab 1 Start",
   "BundleVersion": "1.0",
@@ -23,6 +23,6 @@
   ],
   "AndroidHardwareAcceleration": "false",
   "iOSStatusBarStyle": "Default",
-  "FrameworkVersion": "1.0.1",
+  "FrameworkVersion": "1.1.2",
   "Framework": "NativeScript"
 }
